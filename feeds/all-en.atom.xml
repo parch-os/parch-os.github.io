@@ -1,9 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Parch os</title><link href="https://parch-os.github.io/" rel="alternate"></link><link href="https://parch-os.github.io/feeds/all-en.atom.xml" rel="self"></link><id>https://parch-os.github.io/</id><updated>2022-01-29T00:00:00+03:30</updated><entry><title>README</title><link href="https://parch-os.github.io/blog/2022/Jan/29/readme/" rel="alternate"></link><published>2022-01-29T00:00:00+03:30</published><updated>2022-01-29T00:00:00+03:30</updated><author><name>mmdbalkhi</name></author><id>tag:parch-os.github.io,2022-01-29:/blog/2022/Jan/29/readme/</id><summary type="html">&lt;p&gt;Information about the project&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Parch os website&lt;/h1&gt;
-&lt;p&gt;the Parch is an operating system based on Arch Linux and will use the &lt;a href="https://github.com/PyFarsi/pyabr"&gt;PyAbr&lt;/a&gt; desktop in the future&lt;/p&gt;
-&lt;h2&gt;Features&lt;/h2&gt;
-&lt;p&gt;currently nothing! Coming Soon&lt;/p&gt;
-&lt;h2&gt;discussion&lt;/h2&gt;
-&lt;p&gt;on discord: &lt;a href="https://discord.gg/dRvDBDstnV"&gt;Join&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;note&lt;/h2&gt;
-&lt;p&gt;The markdown file manager is based on flaskcwg(&lt;a href="https://github.com/flaskcwg/flaskcwg.github.io/blob/master/README.md"&gt;+&lt;/a&gt;)&lt;/p&gt;</content><category term="blog"></category><category term="arch"></category><category term="linux"></category><category term="parch"></category><category term="pyabr"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Parch os</title><link href="https://parch-os.github.io/" rel="alternate"></link><link href="https://parch-os.github.io/feeds/all-en.atom.xml" rel="self"></link><id>https://parch-os.github.io/</id><updated>2022-02-04T00:00:00+03:30</updated><entry><title>Install Parch plasma Edition</title><link href="https://parch-os.github.io/blog/2022/Feb/04/install-parch-plasma-edition/" rel="alternate"></link><published>2022-02-04T00:00:00+03:30</published><updated>2022-02-04T00:00:00+03:30</updated><author><name>mmdbalkhi</name></author><id>tag:parch-os.github.io,2022-02-04:/blog/2022/Feb/04/install-parch-plasma-edition/</id><summary type="html">&lt;p&gt;Parch plasma version installation tutorial&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Parch os plasma Edition&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="screenshot" src="https://parch-os.github.io/img/plasma_screenshot.png"&gt;&lt;/p&gt;
+&lt;h2&gt;Installation&lt;/h2&gt;
+&lt;p&gt;first your need to download the parch iso file from &lt;a href=""&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;burning and booting the parch iso&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If you want to install it on a virtual machine, you can skip this section.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Then you need to burn the ISO to your USB/CD/DVD.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You can use the open-source &lt;a href="https://etcher.io/"&gt;etcher&lt;/a&gt; program to do this.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;After burning the ISO on your USB/CD/DVD, you need to boot the USB/CD/DVD. Reboot the system. boot the USB/CD/DVD in any way you can when the motherboard logo appears (usually the del or f2 keys can do it)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;installing&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Continue training for installation on real systems and virtual machines&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;After livecd is booted, click on the &lt;code&gt;install parch&lt;/code&gt; icon and continue the installation!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Here the &lt;a href="https://calamares.io/about/"&gt;calaremas&lt;/a&gt; will help you.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;After installing calaremas, it will tell you that it wants to reboot the system. You can reboot the system or stay on the live CD.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;congratulations! You have installed parch! Hope you enjoy the parch!&lt;/p&gt;</content><category term="tutorials"></category><category term="parchplasma"></category><category term="install"></category><category term="arch"></category><category term="kde"></category><category term="gui"></category></entry><entry><title>README</title><link href="https://parch-os.github.io/blog/2022/Jan/29/readme/" rel="alternate"></link><published>2022-01-29T00:00:00+03:30</published><updated>2022-01-29T00:00:00+03:30</updated><author><name>mmdbalkhi</name></author><id>tag:parch-os.github.io,2022-01-29:/blog/2022/Jan/29/readme/</id><summary type="html">&lt;p&gt;Information about the project&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Parch os&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="logo" src="https://raw.githubusercontent.com/parch-os/parch-plasma-iso/main/artwork/Parch.png"&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;parch&lt;/strong&gt; operating system is an Arch-based operating system that utilizes graphical installers and graphical desktops. Our goal is a &lt;strong&gt;light&lt;/strong&gt;, &lt;strong&gt;beautiful&lt;/strong&gt;, and &lt;strong&gt;stable&lt;/strong&gt; operating system.&lt;/p&gt;</content><category term="blog"></category><category term="archlinux"></category><category term="parch"></category><category term="pyabr"></category></entry></feed>

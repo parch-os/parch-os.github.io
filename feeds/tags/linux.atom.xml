@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Parch os - linux</title><link href="https://parch-os.github.io/" rel="alternate"></link><link href="https://parch-os.github.io/feeds/tags/linux.atom.xml" rel="self"></link><id>https://parch-os.github.io/</id><updated>2022-01-29T00:00:00+03:30</updated><entry><title>README</title><link href="https://parch-os.github.io/blog/2022/Jan/29/readme/" rel="alternate"></link><published>2022-01-29T00:00:00+03:30</published><updated>2022-01-29T00:00:00+03:30</updated><author><name>mmdbalkhi</name></author><id>tag:parch-os.github.io,2022-01-29:/blog/2022/Jan/29/readme/</id><summary type="html">&lt;p&gt;Information about the project&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Parch os website&lt;/h1&gt;
-&lt;p&gt;the Parch is an operating system based on Arch Linux and will use the &lt;a href="https://github.com/PyFarsi/pyabr"&gt;PyAbr&lt;/a&gt; desktop in the future&lt;/p&gt;
-&lt;h2&gt;Features&lt;/h2&gt;
-&lt;p&gt;currently nothing! Coming Soon&lt;/p&gt;
-&lt;h2&gt;discussion&lt;/h2&gt;
-&lt;p&gt;on discord: &lt;a href="https://discord.gg/dRvDBDstnV"&gt;Join&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;note&lt;/h2&gt;
-&lt;p&gt;The markdown file manager is based on flaskcwg(&lt;a href="https://github.com/flaskcwg/flaskcwg.github.io/blob/master/README.md"&gt;+&lt;/a&gt;)&lt;/p&gt;</content><category term="blog"></category><category term="arch"></category><category term="linux"></category><category term="parch"></category><category term="pyabr"></category></entry></feed>
